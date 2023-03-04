@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Programming and Public Speaking**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shellaelviana01/belajargithub](https://github.com/shellaelviana01)
+- 👨‍💻 All of my projects are available at [https://github.com/shellaelviana01](https://github.com/shellaelviana01)
 
 - 📫 How to reach me **shellaelviana@mhs.mdp.ac.id**
 
